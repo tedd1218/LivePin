@@ -2,6 +2,9 @@
 
 LivePin is a real-time 3D visualization system developed as part of the Fall 2025 ECE Capstone (Team B6). The system converts depth images into a physical, touchable display using a 32×32 array of actuated pins. By combining depth sensing, embedded systems, and mechanical actuation, LivePin enables interactive exploration of 3D shapes in the physical world.
 
+![LivePin Cover Image](livepin-cover.png)
+![Intel Realsense Depth Camera](depth-camera.png)
+
 ## Project Website
 Official project page:  
 https://course.ece.cmu.edu/~ece500/projects/f25-teamb6/
