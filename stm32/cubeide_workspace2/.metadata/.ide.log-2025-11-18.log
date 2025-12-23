@@ -1,0 +1,73 @@
+2025-11-19 00:02:39,560 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:39,626 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:39,632 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:39,632 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:39,754 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:39,754 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:39,815 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:39,815 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:45,025 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:45,037 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:45,041 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:45,041 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:45,193 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:45,194 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:45,259 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:45,260 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:48,289 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 976178016 Bytes (1073741824)
+2025-11-19 00:02:50,081 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 997671776 Bytes (1073741824)
+2025-11-19 00:02:53,014 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 739236336 Bytes (1073741824)
+2025-11-19 00:02:53,889 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-11-19 00:02:53,889 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-11-19 00:02:53,889 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-11-19 00:02:53,890 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-11-19 00:02:53,890 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-11-19 00:02:53,890 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-11-19 00:02:53,891 [INFO] CodeGenerator:892 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.15.0.202507011659//db/
+2025-11-19 00:02:53,897 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:53,897 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-11-19 00:02:54,170 [INFO] CodeEngine:265 - oldGeneratedFile, /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/MXTmpFiles/license.tmp_save
+2025-11-19 00:02:54,804 [INFO] CodeEngine:289 - Generated code: /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/MXTmpFiles/license.tmp
+2025-11-19 00:02:54,923 [INFO] CodeEngine:265 - oldGeneratedFile, /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/MXTmpFiles/gpio.tmp_save
+2025-11-19 00:02:55,219 [INFO] CodeEngine:289 - Generated code: /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/MXTmpFiles/gpio.tmp
+2025-11-19 00:02:55,394 [INFO] CodeEngine:265 - oldGeneratedFile, /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/Core/Src/stm32f4xx_it.c_save
+2025-11-19 00:02:55,607 [INFO] CodeEngine:289 - Generated code: /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/Core/Src/stm32f4xx_it.c
+2025-11-19 00:02:55,610 [INFO] CodeEngine:265 - oldGeneratedFile, /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/Core/Inc/stm32f4xx_it.h_save
+2025-11-19 00:02:55,688 [INFO] CodeEngine:289 - Generated code: /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/Core/Inc/stm32f4xx_it.h
+2025-11-19 00:02:55,696 [INFO] CodeEngine:265 - oldGeneratedFile, /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/Core/Src/stm32f4xx_hal_msp.c_save
+2025-11-19 00:02:55,929 [INFO] CodeEngine:289 - Generated code: /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/Core/Src/stm32f4xx_hal_msp.c
+2025-11-19 00:02:55,933 [INFO] CodeEngine:265 - oldGeneratedFile, /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/MXTmpFiles/system.tmp_save
+2025-11-19 00:02:56,012 [INFO] CodeEngine:289 - Generated code: /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/MXTmpFiles/system.tmp
+2025-11-19 00:02:56,020 [INFO] CodeEngine:321 - oldGeneratedFile, /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/Core/Inc/stm32f4xx_hal_conf.h_save
+2025-11-19 00:02:56,122 [INFO] CodeEngine:345 - Generated code: /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/Core/Inc/stm32f4xx_hal_conf.h
+2025-11-19 00:02:56,213 [INFO] ApiDbMcu:532 - Load IP Config File for I2C1
+2025-11-19 00:02:56,217 [INFO] ApiDbMcu:532 - Load IP Config File for USART2
+2025-11-19 00:02:56,221 [INFO] ApiDbMcu:532 - Load IP Config File for RCC
+2025-11-19 00:02:56,228 [INFO] CodeEngine:265 - oldGeneratedFile, /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/Core/Inc/main.h_save
+2025-11-19 00:02:56,366 [INFO] CodeEngine:289 - Generated code: /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/Core/Inc/main.h
+2025-11-19 00:02:56,370 [INFO] CodeEngine:265 - oldGeneratedFile, /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/Core/Src/main.c_save
+2025-11-19 00:02:56,810 [INFO] CodeEngine:289 - Generated code: /Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/Core/Src/main.c
+2025-11-19 00:02:58,115 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 95mS.
+2025-11-19 00:02:58,159 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-11-19 00:02:58,427 [INFO] ConfigFileManager:1595 - The Die is : DIE433
+2025-11-19 00:02:58,458 [INFO] ApiDbMcu:532 - Load IP Config File for FATFS
+2025-11-19 00:02:58,472 [INFO] ApiDbMcu:532 - Load IP Config File for FREERTOS
+2025-11-19 00:02:58,474 [INFO] ApiDbMcu:532 - Load IP Config File for LIBJPEG
+2025-11-19 00:02:58,483 [INFO] ApiDbMcu:532 - Load IP Config File for MBEDTLS
+2025-11-19 00:02:58,508 [INFO] ApiDbMcu:532 - Load IP Config File for USB_DEVICE
+2025-11-19 00:02:58,521 [INFO] ApiDbMcu:532 - Load IP Config File for USB_HOST
+2025-11-19 00:03:02,168 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 4001mS.
+2025-11-19 00:03:02,178 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-11-19 00:03:02,182 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-11-19 00:59:27,217 [INFO] WebApp:194 - Connection lost
+2025-11-19 00:59:29,053 [INFO] WebApp:191 - Connection restablished
+2025-11-19 01:16:17,501 [INFO] WebApp:194 - Connection lost
+2025-11-19 01:16:18,001 [INFO] WebApp:191 - Connection restablished
+2025-11-19 01:16:43,136 [INFO] WebApp:194 - Connection lost
+2025-11-19 01:16:43,395 [INFO] WebApp:191 - Connection restablished
+2025-11-19 01:21:49,336 [INFO] WebApp:194 - Connection lost
+2025-11-19 01:21:50,424 [INFO] WebApp:191 - Connection restablished
+2025-11-19 01:38:16,628 [INFO] WebApp:194 - Connection lost
+2025-11-19 01:38:17,993 [INFO] WebApp:191 - Connection restablished
+2025-11-19 01:38:18,594 [INFO] WebApp:194 - Connection lost
+2025-11-19 01:38:19,232 [INFO] WebApp:191 - Connection restablished

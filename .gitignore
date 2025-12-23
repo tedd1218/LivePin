@@ -1,0 +1,6 @@
+.DS_Store
+stm32/cubeide_workspace/.metadata/
+stm32/cubeIDE/Debug/
+*.snap
+*.index
+*.xmi

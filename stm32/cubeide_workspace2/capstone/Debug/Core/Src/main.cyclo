@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm4.h:2064:26:ITM_SendChar	4
+../Core/Src/main.c:105:6:PCA9685_SetBit	3
+../Core/Src/main.c:125:6:PCA9685_SetPWMFrequency	3
+../Core/Src/main.c:139:6:PCA9685_Init	1
+../Core/Src/main.c:146:6:PCA9685_SetPWM	2
+../Core/Src/main.c:163:6:PCA9685_SetServoAngle	1
+../Core/Src/main.c:172:6:PCA9685_SetOutputMode	1
+../Core/Src/main.c:180:6:microDelay	2
+../Core/Src/main.c:194:6:delayMilliseconds	3
+../Core/Src/main.c:208:5:main	1
+../Core/Src/main.c:353:6:SystemClock_Config	3
+../Core/Src/main.c:400:13:MX_I2C1_Init	2
+../Core/Src/main.c:434:13:MX_TIM3_Init	4
+../Core/Src/main.c:479:13:MX_GPIO_Init	1
+../Core/Src/main.c:548:5:_write	2
+../Core/Src/main.c:560:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/main.c:608:6:Error_Handler	1

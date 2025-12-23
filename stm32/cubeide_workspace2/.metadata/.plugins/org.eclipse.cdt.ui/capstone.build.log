@@ -1,0 +1,34 @@
+22:32:53 **** Incremental Build of configuration Debug for project capstone ****
+make -j7 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F401xE -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'PCA9685_SetBit':
+../Core/Src/main.c:113:11: warning: implicit declaration of function 'printf' [-Wimplicit-function-declaration]
+  113 |           printf("I2C FAIL: Read bit reg 0x%02X\n", Register);
+      |           ^~~~~~
+../Core/Src/main.c:21:1: note: include '<stdio.h>' or provide a declaration of 'printf'
+   20 | #include "main.h"
+  +++ |+#include <stdio.h>
+   21 | 
+../Core/Src/main.c:113:11: warning: incompatible implicit declaration of built-in function 'printf' [-Wbuiltin-declaration-mismatch]
+  113 |           printf("I2C FAIL: Read bit reg 0x%02X\n", Register);
+      |           ^~~~~~
+../Core/Src/main.c:113:11: note: include '<stdio.h>' or provide a declaration of 'printf'
+../Core/Src/main.c: In function 'PCA9685_SetPWM':
+../Core/Src/main.c:159:11: warning: incompatible implicit declaration of built-in function 'printf' [-Wbuiltin-declaration-mismatch]
+  159 |           printf("I2C FAIL: PWM write ch %d\n", Channel);
+      |           ^~~~~~
+../Core/Src/main.c:159:11: note: include '<stdio.h>' or provide a declaration of 'printf'
+arm-none-eabi-gcc -o "capstone.elf" @"objects.list"   -mcpu=cortex-m4 -T"/Users/crystalhuang/Documents/capstone/F25-ece-capstone-livepin/stm32/cubeide_workspace2/capstone/STM32F401RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="capstone.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: capstone.elf
+ 
+arm-none-eabi-size  capstone.elf 
+arm-none-eabi-objdump -h -S capstone.elf  > "capstone.list"
+   text	   data	    bss	    dec	    hex	filename
+   9548	     12	   1740	  11300	   2c24	capstone.elf
+Finished building: default.size.stdout
+ 
+Finished building: capstone.list
+ 
+
+22:32:54 Build Finished. 0 errors, 3 warnings. (took 1s.111ms)
+

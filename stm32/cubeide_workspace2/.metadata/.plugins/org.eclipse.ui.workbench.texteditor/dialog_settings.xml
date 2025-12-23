@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="tim3"/>
+		<item value="PCA9685_ADDRESS2"/>
+		<item value="PCA9685_SetPWM"/>
+		<item value="setOutputMode"/>
+		<item value="PCA9685_Init"/>
+		<item value="PIN_0"/>
+		<item value="exti_callback"/>
+		<item value="MICROSTEPPING"/>
+		<item value="MOTOR_STEPS"/>
+		<item value="step("/>
+		<item value="stepper_rotate"/>
+		<item value="step"/>
+		<item value="microDelay"/>
+		<item value="stepDelay"/>
+		<item value="DIR_PIN"/>
+	</list>
+</section>
