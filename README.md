@@ -8,7 +8,7 @@ https://course.ece.cmu.edu/~ece500/projects/f25-teamb6/
 
 ## Demo Video
 Watch the LivePin demo here:  
-https://www.youtube.com/watch?app=desktop&v=K82bBu5ZHXs
+[https://www.youtube.com/watch?app=desktop&v=K82bBu5ZHXs](https://youtu.be/qnT-BslC3EU)
 
 ## Overview
 - Intel RealSense depth camera for 3D sensing  
