@@ -13,7 +13,7 @@ Watch the LivePin demo here:
 ## Overview
 - Intel RealSense depth camera for 3D sensing  
 - Python-based computer vision pipeline with ROI cropping  
-- UART communication between Raspberry Pi and STM microcontroller  
+- UART communication between Raspberry Pi and Arduino Mega microcontroller  
 - Row-by-row gantry actuation with rack-and-pinion mechanisms  
 - Physical pin reset mechanism using linear actuators  
 
